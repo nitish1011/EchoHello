@@ -1,1 +1,1 @@
-echo "Hello Docker"
+echo "Hello Docker with hook"
